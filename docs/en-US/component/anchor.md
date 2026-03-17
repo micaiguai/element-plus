@@ -84,8 +84,8 @@ anchor/affix
 | bound                      | The offset of the element starting to trigger the anchor  | `number`                              | 15         |
 | duration                   | Set the scroll duration of the container, in milliseconds | `number`                              | 300        |
 | marker                     | Whether to show the marker                                | ^[boolean]                            | true       |
-| type                       | Set Anchor type                                           | ^[enum]`'default' \| 'underline'`     | `default`  |
-| direction                  | Set Anchor direction                                      | ^[enum]`'vertical' \| 'horizontal'`   | `vertical` |
+| type                       | Set anchor type                                           | ^[enum]`'default' \| 'underline'`     | `default`  |
+| direction                  | Set anchor direction                                      | ^[enum]`'vertical' \| 'horizontal'`   | `vertical` |
 | select-scroll-top ^(2.9.2) | Scroll whether link is selected at the top                | ^[boolean]                            | false      |
 
 ### Anchor Events
